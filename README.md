@@ -26,5 +26,9 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ### 활동
-- 빅데이터 학회 BDA 10기 (머신러닝·통계 트랙), BDAI 교육기획팀 부팀장
-- 학부연구생
+- HCI Lab 학부연구생
+- BDA 10기 (통계, ML)
+- BDA 11기 (모델링)
+- BDA 12기 (전처리, 모델 배포)
+- BDAI 운영진 교육기획팀 부팀장
+- BDAI 13기 (지표 설계, 데이터 핸들링 및 자동화)
