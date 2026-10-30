@@ -14,7 +14,7 @@
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
 | [카드 거래 이상 탐지](https://github.com/BaeHyerim/fds-card-fraud) | 카드 거래 185만 건, 시간 순서 분할, 카드별 행동 시퀀스 피처 | Python, scikit-learn, PyTorch |
-| 추천 시스템 | 머신러닝 수업 팀 프로젝트 | |
+| [리뷰 기반 추천 시스템과 평점 조작 탐지](https://github.com/qhfl3644/team10-recsys) | 머신러닝 수업 팀 프로젝트 (진행 중). Amazon Reviews 2023 데이터, 행렬 분해 모델 구현·튜닝과 가짜 프로필 공격 주입·탐지 담당 | Python, NumPy, pandas |
 | AI 에이전트 연구 | 개인비서 에이전트 구축, AI 신뢰도 | |
 
 ### 기술
